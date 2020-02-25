@@ -55,7 +55,7 @@ As we go around the room, tell everyone your name and what you are studying or w
 
 Below is a copy of my slide deck for later reference:
 
-https://bit.ly/web-scraping-slides 
+https://bit.ly/web-scraping-slides-2020 
 
 ## Activity 1 
 ### (approximately 15 minutes)
