@@ -1,6 +1,6 @@
 ## snippet 1
 
->>> import time, requests
+<import time, requests>
 
 >>> from bs4 import BeautifulSoup
 
